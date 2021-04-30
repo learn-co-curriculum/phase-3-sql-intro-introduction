@@ -1,4 +1,4 @@
-# Introduction to Getting Started with SQL
+# Introduction SQL
 
 Just as humans have brains, and computers have hard drives that store
 information, most programs have a storage system that needs to be communicated
