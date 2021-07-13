@@ -67,3 +67,19 @@ of this section, you’ll be able to:
 - Write SQL code in both your command line and your text editor and execute the
   code against a database
 - Write Ruby programs that talk to and save data to your databases
+
+**IMPORTANT NOTE**: This section introduces a lot of new SQL syntax — you're
+being introduced to an entirely new programming language! However, a bit later
+in this phase, we'll be introducing a tool, Active Record, which will allow
+us to use Ruby classes to interact with a SQL database instead of writing
+SQL ourselves.
+
+It's important to still have an understanding of what Active Record does for us
+under the hood, and you'll need to understand some SQL syntax to know what
+Active Record is actually doing, and how to debug some common issues and improve
+your code's performance.
+
+That being said: don't worry too much about memorizing all the _syntax_ in this
+section. Work through the lessons, but move on if you get stuck. It's more
+important that you learn the _concepts_ from this section than that you gain
+mastery over writing SQL.
