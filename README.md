@@ -61,12 +61,12 @@ time.
 This section will cover how to use and navigate databases based on SQL. By the end
 of this section, you’ll be able to:
 
-- Create SQLite3 databases
-- Create, update, select, and delete data from database tables
-- Relate data within a given database
+- Create SQLite3 databases,
+- Create, update, select, and delete data from database tables,
+- Relate data within a given database,
 - Write SQL code in both your command line and your text editor and execute the
-  code against a database
-- Write Ruby programs that talk to and save data to your databases
+  code against a database, and
+- Write Ruby programs that talk to and save data to your databases.
 
 **IMPORTANT NOTE**: This section introduces a lot of new SQL syntax — you're
 being introduced to an entirely new programming language! However, a bit later
